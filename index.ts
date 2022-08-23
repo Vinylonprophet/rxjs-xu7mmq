@@ -60,6 +60,7 @@ import './style.css';
 
 // part11 start
 // import './finished/part11/drag.ts';
+import './finished/part11/drag(myself).ts';
 // part11 finish
 
 // part12 start
@@ -76,5 +77,5 @@ import './style.css';
 // import './finished/part13/delay(time).ts';
 // import './finished/part13/delay(date).ts';
 // import './finished/part13/delayWhen.ts';
-import './finished/part13/delayWhen(img).ts';
+// import './finished/part13/delayWhen(img).ts';
 // part13 finish

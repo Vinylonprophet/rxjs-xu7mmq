@@ -60,7 +60,7 @@ import './style.css';
 
 // part11 start
 // import './finished/part11/drag.ts';
-import './finished/part11/drag(myself).ts';
+// import './finished/part11/drag(myself).ts';
 // part11 finish
 
 // part12 start
@@ -79,3 +79,9 @@ import './finished/part11/drag(myself).ts';
 // import './finished/part13/delayWhen.ts';
 // import './finished/part13/delayWhen(img).ts';
 // part13 finish
+
+// part14 start
+// import './finished/part14/debounce.ts';
+// import './finished/part14/debounce(input).ts';
+import './finished/part14/throttle.ts';
+// part14 finish

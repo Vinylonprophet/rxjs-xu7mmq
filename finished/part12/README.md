@@ -2,6 +2,6 @@
 
 总结:
 
-1. js 的 reduce
-2. operator 的 scan 以及小计算例子
-3. buffer 及 Time 和 Count 和 500ms 点击 2 次的事件
+1. delay 延时发送元素的时间,也可以传入日期
+2. delayWhen 和 delay 相比,不同的是可以影响每个元素
+3. delayWhen 延时,使图片跟着鼠标跑的案例

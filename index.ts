@@ -88,5 +88,7 @@ import './style.css';
 
 // part15 start
 // import './finished/part15/distinct.ts';
-import './finished/part15/distinct(compare).ts';
+// import './finished/part15/distinct(compare).ts';
+// import './finished/part15/distinct(flushes).ts';
+import './finished/part15/distinctUntilChanged.ts';
 // part15 finish

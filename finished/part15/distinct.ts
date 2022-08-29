@@ -9,3 +9,6 @@ zip(from(['a', 'b', 'c', 'a', 'b']), interval(300), (x, y) => x)
       console.log(value);
     },
   });
+// source : --a--b--c--a--b|
+//   distinct()
+// example: --a--b--c------|

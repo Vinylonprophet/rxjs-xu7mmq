@@ -22,10 +22,22 @@ zip(
     next: function (value) {
       console.log(value);
     },
-  }
-  );
-// 输出
+  });
+
+// distinct中添加了下列表达式时,输出
+// (x) => {
+//   return x.value;
+// })
 // {value: "a"}
 // {value: "b"}
 // {value: "c"}
-// 此处可以看出observable输出的是对象,
+
+// ==================== compare ====================
+
+// distinct中不添加时,输出
+// {value: "a"}
+// {value: "b"}
+// {value: "c"}
+// {value: "a"}
+// {value: "b"}
+// 因为js默认对比的是记忆体位置,而不是value,所以永不相等,所以需要传入selector callback,来选择对比的值

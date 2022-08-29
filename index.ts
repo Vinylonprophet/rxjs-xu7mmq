@@ -85,3 +85,8 @@ import './style.css';
 // import './finished/part14/debounce(input).ts';
 // import './finished/part14/throttle.ts';
 // part14 finish
+
+// part15 start
+// import './finished/part15/distinct.ts';
+import './finished/part15/distinct(compare).ts';
+// part15 finish

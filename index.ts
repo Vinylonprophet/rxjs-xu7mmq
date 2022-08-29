@@ -83,5 +83,5 @@ import './style.css';
 // part14 start
 // import './finished/part14/debounce.ts';
 // import './finished/part14/debounce(input).ts';
-import './finished/part14/throttle.ts';
+// import './finished/part14/throttle.ts';
 // part14 finish

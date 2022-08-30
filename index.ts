@@ -90,5 +90,9 @@ import './style.css';
 // import './finished/part15/distinct.ts';
 // import './finished/part15/distinct(compare).ts';
 // import './finished/part15/distinct(flushes).ts';
-import './finished/part15/distinctUntilChanged.ts';
+// import './finished/part15/distinctUntilChanged.ts';
 // part15 finish
+
+// part16 start
+import './finished/part16/catch.ts';
+// part16 finish
